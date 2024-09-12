@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a second-year student at the University of Virginia majoring in the new Data Science program.
 <!--
 **dydi22/dydi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
